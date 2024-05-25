@@ -1,3 +1,6 @@
+// Honestly, during my elementry school division was something i was not at all interested in,
+//So here i am again tackling my childhood fear with coding
+
 #include <iostream>
 using namespace std; 
 

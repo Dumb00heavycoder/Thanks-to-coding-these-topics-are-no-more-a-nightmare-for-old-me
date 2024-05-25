@@ -1,3 +1,6 @@
+// Pnc and binomial theoram were one of the toughest chapters during my highschool and i practied solving factorials alot
+//but the idea of having a program which can tell me every factorial is exciting 
+
 #include <iostream>
 using namespace std;
 
