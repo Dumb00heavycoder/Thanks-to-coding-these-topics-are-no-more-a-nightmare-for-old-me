@@ -1,4 +1,4 @@
-//I never understood leap years and it was very hard for me to keep a track of so use to google everytime someone asked me
+//I never understood leap years and it was very hard for me to keep a track of so i used to google everytime.
 //well here's the power of programming, now i would solve this problem on my own
 
 #include <iostream> 
