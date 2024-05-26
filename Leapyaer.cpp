@@ -1,5 +1,5 @@
 //I never understood leap years and it was very hard for me to keep a track of so i used to google everytime.
-//well here's the power of programming, now i would solve this problem on my own
+//well  now i would solve this problem on my own
 
 #include <iostream> 
 using namespace std;
